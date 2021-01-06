@@ -1,0 +1,1 @@
+var MONGO_DB = "mongodb+srv://ginee:wmToZqQwfay5xNRo@cluster0.fl3ls.mongodb.net/MONGO_DB?retryWrites=true&w=majority";
